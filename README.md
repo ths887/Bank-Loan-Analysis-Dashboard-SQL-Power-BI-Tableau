@@ -22,15 +22,12 @@ The analysis helps the bank monitor trends, identify risks, and improve loan str
 ---
 
 ## 📦 Bank Loan Analysis
-│
-├── 📊 Power BI Dashboard (Summary, Overview, Details)
-├── 📈 Tableau Visualizations
-├── 📄 Dataset (bank_loan.csv + Date Table)
-├── 🧮 DAX Measures
-└── 🗄️ SQL Scripts (Data Cleaning & Verification)
-
----
-
+-│
+-├── 📊 Power BI Dashboard (Summary, Overview, Details)
+-├── 📈 Tableau Visualizations
+-├── 📄 Dataset (bank_loan.csv + Date Table)
+-├── 🧮 DAX Measures
+-└── 🗄️ SQL Scripts (Data Cleaning & Verification)
 
 ---
 
