@@ -97,7 +97,13 @@ Date Table [Date] → bank_loan [issue_date]
 | **DAX**      | Business logic & KPIs            |
 ---
 
-All relationships set to single-direction for optimized performance
+##🎯 Key Insights
 
-## 📁 **Project Structure**
+86% of loans are good loans, while 13.8% fall into bad loan categories.
 
+Most loan applications originate from 36-month term loans.
+
+Top loan purposes include debt consolidation, credit card, and home improvement.
+
+Applicants with 10+ years of employment contribute the highest number of applications.
+---
