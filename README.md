@@ -6,6 +6,16 @@ The analysis was built using **Power BI**, **Tableau**, **SQL**, and **DAX**, wi
 
 ---
 
+## 🖼️ Dashboard Preview
+
+Below is a snapshot of the interactive Power BI and Tableau portfolio project daashboard👇  
+
+![Bank Loan Analysis Dashboard Preview]()
+ 
+
+
+---
+
 ## 🚀 **Project Overview**
 
 The objective of this dashboard is to help stakeholders track:
