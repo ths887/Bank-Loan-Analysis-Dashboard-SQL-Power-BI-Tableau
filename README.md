@@ -8,9 +8,9 @@ The analysis was built using **Power BI**, **Tableau**, **SQL**, and **DAX**, wi
 
 ## 🖼️ Dashboard Preview
 
-Below is a snapshot of the interactive Power BI and Tableau portfolio project daashboard👇  
+Below is a snapshot of the interactive Power BI and Tableau portfolio project dashboard👇  
 
-![Bank Loan Analysis Dashboard Preview]()
+![Bank Loan Analysis Dashboard Preview](https://github.com/ths887/Bank-Loan-Analysis-Dashboard-SQL-Power-BI-Tableau/blob/main/Bank_Loan.jpg.jpg)
  
 
 
